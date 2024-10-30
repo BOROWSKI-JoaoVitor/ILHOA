@@ -1,3 +1,5 @@
+![Pipeline Diagram](logo_ILHOA.png)
+
 # **ILHOA - A Complete Pipeline for Concrete Crack Microscopy Analysis**
 
 João Vitor B. Borowski<sup>a</sup>, Augusto Schrank<sup>a</sup>, Marilene Vainstein<sup>a*</sup>  
