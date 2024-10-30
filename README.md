@@ -42,4 +42,4 @@ An overview of the repository’s structure, with explanations of the key direct
 The name Ilhoa was selected prior to creating its acronym. As a pipeline integrating Fiji (named after a real island) and Python (named after a snake), it was inspired by a Brazilian island known for its unique snake population. Ilhoa is located in Rio de Janeiro, Brazil, home to the critically endangered Jararaca-ilhoa, or Golden Lancehead pit viper. This name choice is intended to raise awareness of endangered Brazilian species, spotlighting the importance of conservation efforts.
 
 ## **Citation**
-Guidance on how to properly cite ILHOA in academic publications, including a ready-to-use citation format. This ensures that users give appropriate credit when utilizing or building upon the pipeline.
+J.V.B. Borowski, A. Schrank, M.H. Vainstein (2024) Ilhoa: A Novel Automated Pipeline for Enhanced Crack Analysis. Automation in Construction.
