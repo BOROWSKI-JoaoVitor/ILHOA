@@ -68,16 +68,27 @@ Executing the steps _5 and 6_, you should get the following results:
 ![Crack Profile Example](crackprofile_example.png)
 
 After executing the step _7_, you will get the following graphics and results:
-#### **Initial Withs Distribution**
+### **1 - Initial Withs Distribution**
 ![Initial Widths Distribution](Initial_Widths_Distribution.jpeg)
 An initial insight from the data analysis is the comparison of crack width distributions across all samples, which assesses the uniformity of their apertures. Aperture size is crucial for self-healing in concrete, as different aperture sizes can significantly impact healing efficacy . Figure 5A presents a density plot showing the distribution of crack widths among the samples. The plot indicates that most samples have similar width distributions, suggesting uniform structural characteristics. However, samples such as L05-R, L05-2, and L015-2 show distinct differences, highlighting the need for further scrutiny or adjustments in sample preparation or analysis.
 
-![Bar Graph - Initial vs Final](Bar_Graph_Initial_vs_Final.jpeg)
-![Crack Profile Example](crackprofile_example.png)
-![Crack Profile Example](crackprofile_example.png)
+### **2 - Bar Graph - Initial vs Final areas**
+![Bar Graph - Initial vs Final areas](Bar_Graph_Initial_vs_Final.jpeg)
+
+
+### **2 - Bar Graph - Initial vs Final areas**
 ![Crack Profile Example](crackprofile_example.png)
 
-#### **Final vs. Initial crack areas**
+
+### **2 - Bar Graph - Initial vs Final areas**
+![Crack Profile Example](crackprofile_example.png)
+
+
+
+### **2 - Bar Graph - Initial vs Final areas**
+![Crack Profile Example](crackprofile_example.png)
+
+### **6 - Scatter Plot - Final vs. Initial crack areas**
 ![Scatterplot Initial vs Final](Scatterplot_Initial_vs_Final.jpg)
 The continuous red line indicates where the initial crack area is equal to the final crack area. The segmented red line represents the 95% confidence interval calculated for the reference samples. Results falling between the continuous and segmented red lines indicate healing yields that are not statistically different from the reference samples, suggesting self-healing comparable to that expected from autogenous healing. Samples positioned below the segmented red line exhibit self-healing yields that surpass those of solely autogenous healing, indicating enhanced autonomous self-healing.
 
