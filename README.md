@@ -2,7 +2,7 @@
 
 # **ILHOA - A Complete Pipeline for Concrete Crack Microscopy Analysis**
 
-João Vitor B. Borowski<sup>a</sup>, Augusto Schrank<sup>a</sup>, Marilene Vainstein<sup>a*</sup>  
+João Vitor B. Borowski<sup>a</sup>, Augusto Schrank<sup>a</sup>, Marilene Vainstein<sup>a</sup>  
 
 <sup>a</sup>Departamento de Biologia Molecular e Biotecnologia, Instituto de Biociências and Programa de Pós-Graduação em Biologia Celular e Molecular, Centro de Biotecnologia, Universidade Federal do Rio Grande do Sul – UFRGS, Porto Alegre, RS 91500-970, Brazil.
 
