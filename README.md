@@ -31,9 +31,9 @@ ILHOA (InstantLy Have Overall Analysis) is a robust and automated pipeline desig
 ## **Important**
 > ⚠️ **Please Note**: Before using ILHOA, ensure that all microscopy image files have the right format, and are correctly named according to the guidelines provided in the [Example](#example) section. Incompatible format or improperly formatted data may cause the pipeline to fail. 
 ---
-4- Open Fiji, drag the macro <i>merge_photos.ijm</i> file into the program window and run the code
+4- Open Fiji, drag the macro <i>ILHOA_merge_photos.ijm</i> file into the program window and run the code
 
-5- After creating all merged microscopy images, drag the macro <i>crack_profile.ijm</i> file into the program window and run the code
+5- After creating all merged microscopy images, drag the macro <i>ILHOA_crack_profile.ijm</i> file into the program window and run the code
 
 6- After processing all images, open it with Fiji and manually exclude any remaining artifacts
 
