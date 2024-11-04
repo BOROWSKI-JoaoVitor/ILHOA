@@ -21,6 +21,8 @@ João Vitor B. Borowski<sup>a</sup>, Augusto Schrank<sup>a</sup>, Marilene Vains
 ## **Description** 
 ILHOA (InstantLy Have Overall Analysis) is a robust and automated pipeline designed to analyse crack healing in self-healing concrete materials. Composed of Fiji and Python codes, it takes microscopy images as input and returns ready-to-publish graphics and statistical analysis of the whole crack extension. It offers precise and scalable tools for data acquisition, processing, and visualization, aiming to enhance research workflows by replacing manual assessments with automated and reproducible methodologies. 
 
+![ILHOA Graphical Abstract](Graphical_Abstract.jpg)
+
 ## **Recommended Implementation**
 1- Install [Fiji (ImageJ)](https://imagej.net/software/fiji/downloads) and all necessary Macros 
 
