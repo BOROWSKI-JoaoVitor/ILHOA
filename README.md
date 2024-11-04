@@ -24,7 +24,9 @@ ILHOA (InstantLy Have Overall Analysis) is a robust and automated pipeline desig
 ## **Recommended Implementation**
 1- Install Fiji (ImageJ) and all necessary Macros 
 
-2- Install Python 3.8.16 or later versions, and all necessary packages and their dependencies. All python code was run and tested with version 3.8.16
+2- Install [Python 3.8.16](https://www.python.org/downloads/release/python-3816/) or [later versions](https://www.python.org/downloads/), and all necessary packages and their dependencies. All python code was run and tested with version 3.8.16
+
+3- To run the Python code, we reccomend utilizing an IDE such as [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows)
 
 ## **Important**
 > ⚠️ **Please Note**: Before using ILHOA, ensure that all microscopy image files have the right format, and are correctly named according to the guidelines provided in the [Example](#example) section. Incompatible format or improperly formatted data may cause the pipeline to fail. 
