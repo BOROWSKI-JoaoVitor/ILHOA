@@ -1,4 +1,4 @@
-![Pipeline Diagram](logo_ILHOA.png)
+![Logo ILHOA](logo_ILHOA.png)
 
 # **ILHOA - A Complete Pipeline for Concrete Crack Microscopy Analysis**
 
@@ -42,7 +42,37 @@ ILHOA (InstantLy Have Overall Analysis) is a robust and automated pipeline desig
 8- Congratulations! You now have all the data ready to be interpreted! Good luck with your research 
 
 ## **Example**
-A practical example demonstrating how to use ILHOA, including sample data and commands. This section showcases the main features of the pipeline and explains typical use cases.
+Before running any codes, you should have the following directories:
+- With microscopy images;
+ 
+- To save the merged microscopy images.
+---
+The images in the directory must be named according to this format:
+#### **Treat-#_Time##**
+Where 
+- **<i>Treat</i>** is the treatment condition used for that sample;
+- **<i>#</i>** is the sample identifier number;
+- **<i>Time</i>** is the lapsed time from the beginning of the analysis when the photo was captured (in days);
+- **<i>##</i>** is the image identifier number for sequential merge.
+
+Here's an example of a directory with the images ready for analysis:
+![Directory Example](directory_example.png)
+
+---
+Executing the steps _1-4_ from the [Recommended Implementation](#recommended-implementation), you should get the following results:
+![Fiji Run Example](fijirun_example.png)
+
+Executing the steps _5 and 6_, you should get the following results:
+![Crack Profile Example](crackprofile_example.png)
+
+After executing the step _7_, you will get the following graphics and results:
+![Crack Profile Example](crackprofile_example.png)
+![Crack Profile Example](crackprofile_example.png)
+![Crack Profile Example](crackprofile_example.png)
+![Crack Profile Example](crackprofile_example.png)
+![Crack Profile Example](crackprofile_example.png)
+![Crack Profile Example](crackprofile_example.png)
+
 
 ## **Description of This GitHub Repository**
 An overview of the repository’s structure, with explanations of the key directories and files. This section clarifies where to find scripts, datasets, documentation, and other essential components of the project.
