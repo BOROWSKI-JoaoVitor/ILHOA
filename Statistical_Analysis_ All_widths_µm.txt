@@ -1,0 +1,242 @@
+Statistical Analysis
+
+Comparison 1:
+Dataset 1: L05-10
+Dataset 2: L05-114
+Mann-Whitney U statistic: 19053718.5
+P-value: 0.0016023897517338968
+CLES: 0.48373209112495646
+Cohen's d: -0.06273730539512755
+
+Comparison 2:
+Dataset 1: L05-121
+Dataset 2: L05-128
+Mann-Whitney U statistic: 9919944.5
+P-value: 8.245880981369548e-147
+CLES: 0.678235790812315
+Cohen's d: 0.669016322736464
+
+Comparison 3:
+Dataset 1: L05-135
+Dataset 2: L05-17
+Mann-Whitney U statistic: 3854905.5
+P-value: 3.3759911689143415e-150
+CLES: 0.31144489899727634
+Cohen's d: -0.6582426781177902
+
+Comparison 4:
+Dataset 1: L05-20
+Dataset 2: L05-214
+Mann-Whitney U statistic: 26109475.0
+P-value: 7.939139687251795e-44
+CLES: 0.5687548842617175
+Cohen's d: 0.15247558945646786
+
+Comparison 5:
+Dataset 1: L05-221
+Dataset 2: L05-228
+Mann-Whitney U statistic: 5243446.5
+P-value: 1.3535129197118147e-56
+CLES: 0.6326678197623384
+Cohen's d: 0.2804350292440642
+
+Comparison 6:
+Dataset 1: L05-235
+Dataset 2: L05-27
+Mann-Whitney U statistic: 711209.0
+P-value: 4.464108565900832e-13
+CLES: 0.3753997016686918
+Cohen's d: -0.1257167105188528
+
+Comparison 7:
+Dataset 1: L05-R0
+Dataset 2: L05-R14
+Mann-Whitney U statistic: 17671539.5
+P-value: 4.725865524999883e-16
+CLES: 0.4578430279820058
+Cohen's d: -0.14826796355697586
+
+Comparison 8:
+Dataset 1: L05-R21
+Dataset 2: L05-R28
+Mann-Whitney U statistic: 10255379.0
+P-value: 5.4905355793194235e-36
+CLES: 0.5788632685741637
+Cohen's d: 0.2974307931034246
+
+Comparison 9:
+Dataset 1: L05-R35
+Dataset 2: L05-R7
+Mann-Whitney U statistic: 6268156.5
+P-value: 6.621371850090132e-107
+CLES: 0.3601007165296809
+Cohen's d: -0.48282876661115354
+
+Comparison 10:
+Dataset 1: L10-10
+Dataset 2: L10-114
+Mann-Whitney U statistic: 21920467.5
+P-value: 1.5688084173921269e-09
+CLES: 0.47013802503345803
+Cohen's d: -0.18168258001748958
+
+Comparison 11:
+Dataset 1: L10-121
+Dataset 2: L10-128
+Mann-Whitney U statistic: 12194980.5
+P-value: 3.716444966056004e-28
+CLES: 0.5660967393332721
+Cohen's d: 0.19485869972185216
+
+Comparison 12:
+Dataset 1: L10-135
+Dataset 2: L10-17
+Mann-Whitney U statistic: 5295928.0
+P-value: 4.962689732648979e-94
+CLES: 0.35676547282442184
+Cohen's d: -0.3886007964358852
+
+Comparison 13:
+Dataset 1: L10-20
+Dataset 2: L10-214
+Mann-Whitney U statistic: 23405866.5
+P-value: 5.782450123990243e-35
+CLES: 0.4409797867097136
+Cohen's d: -0.24941599263317688
+
+Comparison 14:
+Dataset 1: L10-221
+Dataset 2: L10-228
+Mann-Whitney U statistic: 11291931.5
+P-value: 9.932672893240803e-15
+CLES: 0.5469498930409068
+Cohen's d: 0.17656448529571755
+
+Comparison 15:
+Dataset 1: L10-235
+Dataset 2: L10-27
+Mann-Whitney U statistic: 6538773.5
+P-value: 3.311309542405016e-57
+CLES: 0.3927046002382134
+Cohen's d: -0.41485704238740123
+
+Comparison 16:
+Dataset 1: L10-R0
+Dataset 2: L10-R14
+Mann-Whitney U statistic: 22322007.5
+P-value: 0.002113128331757965
+CLES: 0.5154659952356013
+Cohen's d: 0.05106231448147694
+
+Comparison 17:
+Dataset 1: L10-R21
+Dataset 2: L10-R28
+Mann-Whitney U statistic: 12377055.0
+P-value: 0.30842291392033894
+CLES: 0.5059126153779747
+Cohen's d: 0.03672905243609024
+
+Comparison 18:
+Dataset 1: L10-R35
+Dataset 2: L10-R7
+Mann-Whitney U statistic: 9703266.5
+P-value: 7.728595268770296e-21
+CLES: 0.4434994357569655
+Cohen's d: -0.22549007121950929
+
+Comparison 19:
+Dataset 1: L15-10
+Dataset 2: L15-114
+Mann-Whitney U statistic: 21240656.5
+P-value: 1.082945351318582e-05
+CLES: 0.47796899922280683
+Cohen's d: -0.07286525551414445
+
+Comparison 20:
+Dataset 1: L15-121
+Dataset 2: L15-128
+Mann-Whitney U statistic: 12464657.0
+P-value: 6.158320087025343e-12
+CLES: 0.5405469036760109
+Cohen's d: 0.14364440631463674
+
+Comparison 21:
+Dataset 1: L15-135
+Dataset 2: L15-17
+Mann-Whitney U statistic: 9459655.0
+P-value: 0.09556642493279195
+CLES: 0.5105649234502494
+Cohen's d: 0.04333196953504377
+
+Comparison 22:
+Dataset 1: L15-20
+Dataset 2: L15-214
+Mann-Whitney U statistic: 34880641.5
+P-value: 0.00021641925646873202
+CLES: 0.4836183736107839
+Cohen's d: -0.01213194109006891
+
+Comparison 23:
+Dataset 1: L15-221
+Dataset 2: L15-228
+Mann-Whitney U statistic: 28496002.0
+P-value: 8.428096777745085e-102
+CLES: 0.6056857856421701
+Cohen's d: 0.29506536519687804
+
+Comparison 24:
+Dataset 1: L15-235
+Dataset 2: L15-27
+Mann-Whitney U statistic: 11091301.0
+P-value: 1.7699838902309065e-300
+CLES: 0.3024319823271737
+Cohen's d: -0.5081729943467537
+
+Comparison 25:
+Dataset 1: L15-R0
+Dataset 2: L15-R14
+Mann-Whitney U statistic: 27138905.0
+P-value: 0.003476436262606655
+CLES: 0.4861969146139276
+Cohen's d: -0.06567337585720352
+
+Comparison 26:
+Dataset 1: L15-R21
+Dataset 2: L15-R28
+Mann-Whitney U statistic: 23715722.5
+P-value: 1.4652296671467607e-14
+CLES: 0.5385326480382057
+Cohen's d: 0.13115101716044406
+
+Comparison 27:
+Dataset 1: L15-R35
+Dataset 2: L15-R7
+Mann-Whitney U statistic: 15430118.0
+P-value: 7.573711204075125e-24
+CLES: 0.44610694868274126
+Cohen's d: -0.19191629232861862
+
+Comparison 28:
+Dataset 1: REF-10
+Dataset 2: REF-114
+Mann-Whitney U statistic: 34848540.0
+P-value: 6.179231968297638e-06
+CLES: 0.5204337806886785
+Cohen's d: 0.08507582416489945
+
+Comparison 29:
+Dataset 1: REF-121
+Dataset 2: REF-128
+Mann-Whitney U statistic: 27061964.0
+P-value: 0.0035214669467163464
+CLES: 0.5139913153927422
+Cohen's d: 0.04306150463927308
+
+Comparison 30:
+Dataset 1: REF-135
+Dataset 2: REF-17
+Mann-Whitney U statistic: 28659217.0
+P-value: 2.5929622928763805e-13
+CLES: 0.4662668820555298
+Cohen's d: -0.09201924796727654
+
