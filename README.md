@@ -70,25 +70,28 @@ Executing the steps _5 and 6_, you should get the following results:
 After executing the step _7_, you will get the following graphics and results:
 ### **1 - Initial Withs Distribution**
 ![Initial Widths Distribution](Initial_Widths_Distribution.jpeg)
-An initial insight from the data analysis is the comparison of crack width distributions across all samples, which assesses the uniformity of their apertures. Aperture size is crucial for self-healing in concrete, as different aperture sizes can significantly impact healing efficacy . Figure 5A presents a density plot showing the distribution of crack widths among the samples. The plot indicates that most samples have similar width distributions, suggesting uniform structural characteristics. However, samples such as L05-R, L05-2, and L015-2 show distinct differences, highlighting the need for further scrutiny or adjustments in sample preparation or analysis.
+An initial insight from the data analysis is the comparison of crack width distributions across all samples, which assesses the uniformity of their apertures. Aperture size is crucial for self-healing in concrete, as different aperture sizes can significantly impact healing efficacy. Figure 1 presents a density plot showing the distribution of crack widths among the samples. The plot indicates that most samples have similar width distributions, suggesting uniform structural characteristics. However, samples such as L05-R, L05-2, and L015-2 show distinct differences, highlighting the need for further scrutiny or adjustments in sample preparation or analysis.
 
-### **2 - Bar Graph - Initial vs Final areas**
-![Bar Graph - Initial vs Final areas](Bar_Graph_Initial_vs_Final.jpeg)
+### **2 - Line Plot - Raw Area**
+![Line Plot Raw Area](Line_Plot_Raw_Area.jpeg)
+Collecting multiple data points throughout the testing period is essential for a comprehensive assessment of the self-healing behavior of concrete embedded with self-healing agents. Documenting changes at various stages — early, mid, and late — allows researchers to capture the nuanced dynamics of the healing process, which can vary significantly over time. A robust timeline of data allows for the extrapolation of the general self-healing trend, offering a clearer picture of the agent’s efficacy and enabling more accurate predictions of its long-term performance. 
+
+### **3 - Line Plot - Area Variation**
+![Line Plot Area Variation](Line_Plot_Area_Variation.jpeg)
+In the analysis of self-healing in concrete, line graphs showing both raw and Δ areas are crucial for evaluating and comparing the efficiency of different healing treatments. These graphs enable direct comparisons of healing progress over time across various treatments, highlighting the performance and efficacy of each approach. Figure 2 presents the raw area data, providing a snapshot of the actual crack sizes, while Figure 3 focuses on delta areas, allowing for straightforward comparisons of treatment performances. 
+
+### **4 - Generalized Estimating Equations (GEE)**
+The Generalized Estimating Equations (GEE) approach is an effective statistical method for distinguishing performance differences, providing robust comparisons even when dealing with complex and correlated data sets.
+
+### **5 - Violin Plot - Initial vs Final Areas**
+![Violin Plot Initial vs Final](Violin_Plot_Initial_vs_Final.jpeg)
 
 
-### **2 - Bar Graph - Initial vs Final areas**
-![Crack Profile Example](crackprofile_example.png)
 
+### **6 - Bar Graph - Initial vs Final Areas**
+![Bar Graph Initial vs Final](Bar_Graph_Initial_vs_Final.jpeg)
 
-### **2 - Bar Graph - Initial vs Final areas**
-![Crack Profile Example](crackprofile_example.png)
-
-
-
-### **2 - Bar Graph - Initial vs Final areas**
-![Crack Profile Example](crackprofile_example.png)
-
-### **6 - Scatter Plot - Final vs. Initial crack areas**
+### **7 - Scatter Plot - Final vs. Initial Crack Areas**
 ![Scatterplot Initial vs Final](Scatterplot_Initial_vs_Final.jpg)
 The continuous red line indicates where the initial crack area is equal to the final crack area. The segmented red line represents the 95% confidence interval calculated for the reference samples. Results falling between the continuous and segmented red lines indicate healing yields that are not statistically different from the reference samples, suggesting self-healing comparable to that expected from autogenous healing. Samples positioned below the segmented red line exhibit self-healing yields that surpass those of solely autogenous healing, indicating enhanced autonomous self-healing.
 
