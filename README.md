@@ -7,6 +7,8 @@ João Vitor B. Borowski<sup>a</sup>, Augusto Schrank<sup>a</sup>, Marilene Vains
 <sup>a</sup>Departamento de Biologia Molecular e Biotecnologia, Instituto de Biociências and Programa de Pós-Graduação em Biologia Celular e Molecular, Centro de Biotecnologia, Universidade Federal do Rio Grande do Sul – UFRGS, Porto Alegre, RS 91500-970, Brazil.
 
 ---
+#### Contact via: **ilhoa.contact@gmail.com**
+---
 
 ### **Contents**
 - [Description](#description)
@@ -70,7 +72,7 @@ Executing the steps _5 and 6_, you should get the following results:
 After executing the step _7_, you will get the following graphics and results:
 ### **1 - Initial Withs Distribution**
 ![Initial Widths Distribution](Initial_Widths_Distribution.jpeg)
-An initial insight from the data analysis is the comparison of crack width distributions across all samples, which assesses the uniformity of their apertures. Aperture size is crucial for self-healing in concrete, as different aperture sizes can significantly impact healing efficacy. Figure 1 presents a density plot showing the distribution of crack widths among the samples. The plot indicates that most samples have similar width distributions, suggesting uniform structural characteristics. However, samples such as L05-R, L05-2, and L015-2 show distinct differences, highlighting the need for further scrutiny or adjustments in sample preparation or analysis.
+An initial insight from the data analysis involves comparing crack width distributions across all samples to assess the uniformity of their apertures. Aperture size plays a critical role in the self-healing process of concrete, as varying aperture sizes can significantly influence the healing efficacy. Figure 1 depicts a density plot of crack width distributions among the samples, indicating that most samples exhibit similar width distributions, which points to uniform structural properties. However, specific samples, such as L05-R, L05-2, and L015-2, show notable deviations, suggesting the necessity for further investigation or potential modifications in sample preparation or analytical approaches.
 
 ### **2 - Line Plot - Raw Area**
 ![Line Plot Raw Area](Line_Plot_Raw_Area.jpeg)
