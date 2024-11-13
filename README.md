@@ -46,7 +46,7 @@ ILHOA (InstantLy Have Overall Analysis) is a robust and automated pipeline desig
 - When you have only the crack profile left, press *Ctrl + Shift + T*, select *Dark Background** and press *Apply*;
 - In the Fiji main menu go to *File > Save As > Jpeg* and save it in the same directory as the original (overwriting) or in a new directory.
 
-7- Open the <i>ILHOA_data_extract.py</i> with the IDE of your choice. Run the code
+7- Open the [ILHOA_data_extract.py](https://github.com/BOROWSKI-JoaoVitor/ILHOA/blob/main/ILHOA_data_extract.py) with the IDE of your choice. Run the code
 
 8- Congratulations! You now have all the data ready to be interpreted! Good luck with your research 
 
@@ -54,7 +54,7 @@ ILHOA (InstantLy Have Overall Analysis) is a robust and automated pipeline desig
 Before running any codes, you should have the following directories:
 - With microscopy images;
  
-- To save the merged microscopy images
+- To save the merged microscopy images;
 
 - To save treated images (ready to be analysed).
 ---
