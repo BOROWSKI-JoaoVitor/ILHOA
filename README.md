@@ -34,12 +34,17 @@ ILHOA (InstantLy Have Overall Analysis) is a robust and automated pipeline desig
 
 ## **Important**
 > ⚠️ **Please Note**: Before using ILHOA, ensure that all microscopy image files have the right format, and are correctly named according to the guidelines provided in the [Example](#example) section. Incompatible format or improperly formatted data may cause the pipeline to fail. 
----
-4- Open Fiji, drag the macro <i>ILHOA_merge_photos.ijm</i> file into the program window and run the code
+##
+4- Open Fiji, drag the macro <i>ILHOA_merge.ijm</i> file into the program window and run the code
 
 5- After creating all merged microscopy images, drag the macro <i>ILHOA_crack_profile.ijm</i> file into the program window and run the code
 
-6- After processing all images, open it with Fiji and manually exclude any remaining artifacts
+6- After processing all images, open it with Fiji and manually exclude any remaining artifacts:
+
+- Drag and drop the image in Fiji. Press *Ctrl + Shift + T*, select *Dark Background* and press *Apply*;
+- With the *Freehand selections* tool, circle the unwanted artifacts and press *Del*;
+- When you have only the crack profile left, press *Ctrl + Shift + T*, select *Dark Background** and press *Apply*;
+- In the Fiji main menu go to *File > Save As > Jpeg* and save it in the same directory as the original (overwriting) or in a new directory.
 
 7- Open the <i>ILHOA_data_extract.py</i> with the IDE of your choice. Run the code
 
@@ -49,15 +54,20 @@ ILHOA (InstantLy Have Overall Analysis) is a robust and automated pipeline desig
 Before running any codes, you should have the following directories:
 - With microscopy images;
  
-- To save the merged microscopy images.
+- To save the merged microscopy images
+
+- To save treated images (ready to be analysed).
 ---
 The images in the directory must be named according to this format:
-#### **Treat-#_Time##**
+#### **Treat-#_Time _##**
 Where 
 - **<i>Treat</i>** is the treatment condition used for that sample;
 - **<i>#</i>** is the sample identifier number;
 - **<i>Time</i>** is the lapsed time from the beginning of the analysis when the photo was captured (in days);
 - **<i>##</i>** is the image identifier number for sequential merge.
+##
+> ⚠️ **Please Note**: the underscore limitters must be used as shown in the example for the proper functioning of the program
+## 
 
 Here's an example of a directory with the images ready for analysis:
 ![Directory Example](directory_example.png)
