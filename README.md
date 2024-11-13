@@ -35,9 +35,9 @@ ILHOA (InstantLy Have Overall Analysis) is a robust and automated pipeline desig
 ## **Important**
 > ⚠️ **Please Note**: Before using ILHOA, ensure that all microscopy image files have the right format, and are correctly named according to the guidelines provided in the [Example](#example) section. Incompatible format or improperly formatted data may cause the pipeline to fail. 
 ##
-4- Open Fiji, drag the macro <i>ILHOA_merge.ijm</i> file into the program window and run the code
+4- Open Fiji, drag the macro [ILHOA_merge.ijm](https://github.com/BOROWSKI-JoaoVitor/ILHOA/blob/main/ILHOA_merge.ijm) file into the program window and run the code
 
-5- After creating all merged microscopy images, drag the macro <i>ILHOA_crack_profile.ijm</i> file into the program window and run the code
+5- After creating all merged microscopy images, drag the macro [ILHOA_crack_profile.ijm](https://github.com/BOROWSKI-JoaoVitor/ILHOA/blob/main/ILHOA_crack_profile.ijm) file into the program window and run the code
 
 6- After processing all images, open it with Fiji and manually exclude any remaining artifacts:
 
@@ -70,14 +70,14 @@ Where
 ## 
 
 Here's an example of a directory with the images ready for analysis:
-![Directory Example](directory_example.png)
+![Directory Example](directory_example.jpg)
 
 ---
 Executing the steps _1-4_ from the [Recommended Implementation](#recommended-implementation), you should get the following results:
-![Fiji Run Example](fijirun_example.png)
+![Fiji Run Example](fijirun_example.jpg)
 
 Executing the steps _5 and 6_, you should get the following results:
-![Crack Profile Example](crackprofile_example.png)
+![Crack Profile Example](crackprofile_example.jpg)
 
 After executing the step _7_, you will get the following graphics and results:
 ### **1 - Initial Withs Distribution**
