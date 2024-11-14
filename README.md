@@ -108,7 +108,26 @@ The Generalized Estimating Equations (GEE) approach is an effective statistical 
 The continuous red line indicates where the initial crack area is equal to the final crack area. The segmented red line represents the 95% confidence interval calculated for the reference samples. Results falling between the continuous and segmented red lines indicate healing yields that are not statistically different from the reference samples, suggesting self-healing comparable to that expected from autogenous healing. Samples positioned below the segmented red line exhibit self-healing yields that surpass those of solely autogenous healing, indicating enhanced autonomous self-healing.
 
 ## **Description of This GitHub Repository**
-An overview of the repository’s structure, with explanations of the key directories and files. This section clarifies where to find scripts, datasets, documentation, and other essential components of the project.
+
+This repository contains all necessary files, scripts, and documentation for running ILHOA. Below is a breakdown of the repository structure:
+
+- **`logo_ILHOA.png`**: The ILHOA project logo, displayed at the top of the README as a visual identifier.
+  
+- **`Graphical_Abstract.jpg`**: A graphical summary of the ILHOA pipeline, providing a quick visual overview of its functionalities and workflow.
+
+- **`images/`**: A folder containing example images used in the README for illustrative purposes, such as the directory structure, example Fiji outputs, crack profiles, and generated plots.
+
+- **`ILHOA_merge.ijm`**: The Fiji macro script used to merge microscopy images. This script should be run in Fiji after setting up your images according to the specified format.
+
+- **`ILHOA_crack_profile.ijm`**: The Fiji macro script for processing crack profiles in images. This script is used after merging to isolate the crack profile for further analysis.
+
+- **`ILHOA_data_extract.py`**: A Python script that extracts data from processed images and generates various plots and statistical analyses, including density plots, line plots, GEE analysis, and scatter plots.
+
+- **README.md**: This file, providing a comprehensive guide to using ILHOA, including setup instructions, examples, and citation information.
+
+- **`assets/`** (Optional): A folder for storing any additional resources or data files required by the scripts or to be provided for demonstration purposes. You can also place here any downloadable files or sample datasets for users to test the pipeline.
+
+Each file and folder serves a specific role in the analysis pipeline, from initial image processing to final data extraction and visualization. By following the instructions in this README, users can quickly set up ILHOA, process their images, and generate publication-ready graphics and analyses for self-healing concrete research.
 
 ## **Why "ILHOA"**
 The name Ilhoa was selected prior to creating its acronym. As a pipeline integrating Fiji (named after a real island) and Python (named after a snake), it was inspired by a Brazilian island known for its unique snake population. Ilhoa is located in Rio de Janeiro, Brazil, home to the critically endangered Jararaca-ilhoa, or Golden Lancehead pit viper. This name choice is intended to raise awareness of endangered Brazilian species, spotlighting the importance of conservation efforts.
